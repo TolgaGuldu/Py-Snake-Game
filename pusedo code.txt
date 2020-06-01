@@ -1,34 +1,34 @@
-	Renkler are "orange", "red", "yellow", "green", "brown", "purple”.
-	a,b,c random & choice in renkler.
-	Puan is 0
-	Enyuksek is 0.
-	delay is  0.05.
+ Renkler are "orange", "red", "yellow", "green", "brown", "purple”.
+ a,b,c random & choice in renkler.
+ Puan is 0
+ Enyuksek is 0.
+ delay is  0.05.
 
-	oyunAlani created in turtle.Screen()
-	yilan,yiyecek,yilanvucut,bildirim are created in turtle.Turtle().
-	New list created for yilanVucutParcalari.
+ oyunAlani created in turtle.Screen()
+ yilan,yiyecek,yilanvucut,bildirim are created in turtle.Turtle().
+ New list created for yilanVucutParcalari.
 
-	oyunAlani gived title then CRAZY PYTHON 
-	oyunAlani of the background  color is determined black.
-	oyunAlani of the frame size are  600 and 600.
-	oyunAlani was traced 0
+ oyunAlani gived title then CRAZY PYTHON 
+ oyunAlani of the background  color is determined black.
+ oyunAlani of the frame size are  600 and 600.
+ oyunAlani was traced 0
 
-	yilan’s speed is 0
-	yilan’s shape is circle.
-	yilan’s color is “a”
+ yilan’s speed is 0
+ yilan’s shape is circle.
+ yilan’s color is “a”
 
  yiyecek’s speed is 0
-	yiyecek’s shape is square.
-	yiyecek’s color is “b”
+ yiyecek’s shape is square.
+ yiyecek’s color is “b”
  yiyecek is created in penup.
- 	yiyecek is determined 0 to 100.
+ yiyecek is determined 0 to 100.
 
  yilanvucut’s speed is 0
-	yilanvucut’s shape is square.
-	yilanvucut’s color is gray.
+ yilanvucut’s shape is square.
+ yilanvucut’s color is gray.
  yilanvucut is created in penup.  
  yilanvucut send in hideturtle.
- 	yilanvucut is determined 0 to 260.
+ yilanvucut is determined 0 to 260.
  yilanvucut was writed "Puan: 0  En Yüksek Puan: 0", align="center", font=("Arial", 22, "normal")".
 
 
@@ -74,7 +74,7 @@
  endif
  
    
-#oyunuKapat section 
+ #oyunuKapat section 
  oyunAlani is determined bye.
 
 
